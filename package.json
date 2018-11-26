@@ -1,5 +1,5 @@
 {
-  "name": "has9",
+  "name": "scarlet",
   "version": "1.0.0",
   "description": "Simple node server with Express.js",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/has9h/simple-node-server.git"
+    "url": "git+https://github.com/scarlet/simple-node-server.git"
   },
   "author": "Hasnain Hossain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/has9h/simple-node-server/issues"
+    "url": "https://github.com/scarlet/simple-node-server/issues"
   },
-  "homepage": "https://github.com/has9h/simple-node-server#readme",
+  "homepage": "https://github.com/scarlet/simple-node-server#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4"
